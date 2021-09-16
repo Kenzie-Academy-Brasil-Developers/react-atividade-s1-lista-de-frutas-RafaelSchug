@@ -1,0 +1,27 @@
+ul, li, h4 {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    font-family: sans-serif;
+}
+
+ul {
+    width: 250px;
+    background: white;
+    padding: 10px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+li {
+    width: 100%;
+    padding: 10px;
+    border-bottom: 1px solid gray;
+    color: rgb(24, 24, 24);
+}
+
+h4 {
+    margin-top: 20px;
+}
